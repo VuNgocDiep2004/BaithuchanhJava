@@ -33,6 +33,5 @@ public class toantu {
             System.out.println(" Hai so bang nhau");
         }
 
-    
     }
 }
