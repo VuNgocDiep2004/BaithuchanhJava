@@ -1,28 +1,24 @@
-import java.io.Console;
+import java.util.Scanner;
 
 public class slide35 {
     public static void main(String[] args) {
-        Console console = System.console();
-        if (console == null) {
-            System.err.println("Không thể truy cập bộ nhập, chương trình sẽ thoát");
-            System.exit(1);
-        }
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Nhập vào số nguyên thứ nhất: ");
+        int num1 = scanner.nextInt();
+        System.out.print("Nhập vào số nguyên thứ hai: ");
+        int num2 = scanner.nextInt();
 
-        System.out.print("Nhập số thứ nhất: ");
-        int num1 = Integer.parseInt(console.readLine());
-
-        System.out.print("Nhập số thứ hai: ");
-        int num2 = Integer.parseInt(console.readLine());
-
-        int min = findMin(num1, num2);
-        System.out.println("Số nhỏ nhất trong hai số là: " + min);
-    }
-
-    private static int findMin(int num1, int num2) {
-        if (num1 < num2) {
-            return num1;
-        } else {
-            return num2;
+        while (true) {
+            if (num1 < num2) {
+                System.out.print("Số nhỏ nhất là: " + num1);
+                break;
+            } else if (num1 > num2) {
+                System.out.print("Số nhỏ nhất là: " + num2);
+                break;
+            } else {
+                System.out.print("Hai số bằng nhau.");
+                break;
+            }
         }
     }
 }
