@@ -1,0 +1,6 @@
+package baithuchanhjava.src.chuong3;
+
+public abstract class human {
+   abstract void ten();
+    void kieutoc (){};
+}
