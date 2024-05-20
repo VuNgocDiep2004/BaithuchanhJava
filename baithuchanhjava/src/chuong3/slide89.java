@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3;
+package chuong3;
 
 public class slide89 {
     public static void main(String[] args) {

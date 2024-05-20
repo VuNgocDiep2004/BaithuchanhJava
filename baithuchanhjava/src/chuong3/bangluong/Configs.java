@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.bangluong;
+package chuong3.bangluong;
 public class Configs {
 
     public static final int NHAN_VIEN_SEP = 1;

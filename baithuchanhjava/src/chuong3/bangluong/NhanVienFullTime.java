@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.bangluong;
+package chuong3.bangluong;
 import java.util.Scanner;
 public class NhanVienFullTime extends NhanVien {
 

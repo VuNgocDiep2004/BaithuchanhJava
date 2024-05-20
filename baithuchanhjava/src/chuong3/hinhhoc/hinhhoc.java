@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.hinhhoc;
+package chuong3.hinhhoc;
 public class hinhhoc {
 public final float PI =3.14f;
 public String ten;

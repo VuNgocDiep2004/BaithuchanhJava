@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.bangluong;
+package chuong3.bangluong;
 
 public class NhanVienPartTime extends NhanVien {
     private int gioLamViec;

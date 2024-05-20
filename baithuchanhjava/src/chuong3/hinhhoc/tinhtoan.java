@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.hinhhoc;
+package chuong3.hinhhoc;
 
 public class tinhtoan {
 public static void main(String[] args) {

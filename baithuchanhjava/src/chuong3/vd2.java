@@ -1,8 +1,8 @@
-package baithuchanhjava.src.chuong3;
+package chuong3;
 
-import baithuchanhjava.src.chuong3.animal.animal;
-import baithuchanhjava.src.chuong3.animal.bird;
-import baithuchanhjava.src.chuong3.animal.fish;
+import chuong3.animal.animal;
+import chuong3.animal.bird;
+import chuong3.animal.fish;
 
 public class vd2 {
     public static void main(String[] args) {

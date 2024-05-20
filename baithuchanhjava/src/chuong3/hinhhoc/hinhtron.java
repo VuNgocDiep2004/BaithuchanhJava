@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.hinhhoc;
+package chuong3.hinhhoc;
 import java.util.Scanner;
 public class hinhtron extends hinhhoc {
     float bankinh;

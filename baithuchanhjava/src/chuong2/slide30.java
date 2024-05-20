@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong2;
+package chuong2;
 import java.util.Scanner;
 
 public class slide30 {

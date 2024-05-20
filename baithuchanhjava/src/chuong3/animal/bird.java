@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.animal;
+package chuong3.animal;
 
 public class bird implements animal {
     public void Move()

@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong2;
+package chuong2;
 public class slide55 {
     public static void main(String[] args) {
         System.out.println("Cac so chia het cho 5 la : ");

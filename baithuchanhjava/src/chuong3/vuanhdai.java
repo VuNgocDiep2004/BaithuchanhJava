@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3;
+package chuong3;
 
 public class vuanhdai extends human {
     void ten()

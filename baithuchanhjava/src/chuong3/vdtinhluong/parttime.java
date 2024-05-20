@@ -1,4 +1,4 @@
-package baithuchanhjava.src.chuong3.vdtinhluong;
+package chuong3.vdtinhluong;
 
 import java.util.Scanner;
 
